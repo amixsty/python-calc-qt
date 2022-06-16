@@ -1,1 +1,3 @@
 # python-calc-qt
+
+comming soon we adding more features...
