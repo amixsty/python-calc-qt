@@ -2,4 +2,4 @@
 
 comming soon we adding more features...
 
-![Screenshot from 2022-06-16 15-58-11](https://user-images.githubusercontent.com/22883222/174060879-9cd59a31-1dd2-4345-a82d-a78dd5d0717c.png)
+![Screenshot from 2022-06-16 16-02-43](https://user-images.githubusercontent.com/22883222/174061237-eefc4972-97f4-40a6-af8e-856316b88544.png)
